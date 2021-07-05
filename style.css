@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+/* Header Style */
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+.fl{
+    float: left;
+}
+.text-center{
+    text-align: center;
+}
+.font-50{
+    font-size: 50px;
+}
+.fr{
+    float: right;
+}
+ul li{
+    list-style: none;
+    float: left;
+}
+ul li a{
+    text-decoration: none;
+    color: #333;
+    margin: 0px 10px;
+}
+.sectionPad{
+    padding: 5rem 0;
+}
+.overflowh{
+    overflow: hidden;
+}
+.mt-1{
+    margin-top: 1rem;
+}
+.flexebleDiv{
+    display: flex;
+}
+.width-50{
+    width: 50%;
+}
+.btnStyle {
+    background-color: #F9C356;
+    padding: 17px 50px;
+    display: inline-block;
+    margin-top: 2rem;
+    color: #fff;
+    transition: 0.3s;
+    font-size: 18px;
+}
+.btnStyle:hover{
+    background-color: #333;
+    color:#F9C356;
+}
+.contentHeader {
+    padding: 0rem 0rem 3rem 0rem;
+    padding-bottom: 37rem;
+    padding-top: 17rem;
+    background: #F4F4F4;
+    clear: both;
+}
+.topHeader {
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+.menuArea {
+    line-height: 3;
+}
+.hContentRight {
+    margin-top: -10rem;
+}
+.hSubHeding {
+    font-size: 23px;
+    font-weight: bolder;
+    color: #F9C356;
+}
+.hSubHeding-2{
+    color: #F9C356;
+    font-weight: bolder;
+}
+.Sechr{
+    height: 3px;
+    border: none;
+    margin: auto;
+    width: 11%;
+    background: #F9C356;
+}
+.abtBoxImg {
+    width: 18%;
+    color: #fff;
+    padding: 10px;
+    background: #F7E1B4;
+    border-radius: 50%;
+}
+ .abtBox {
+    padding: 36px 21px;
+    margin: 14px 10px;
+    border-radius: 5px;
+    box-shadow: 2px 0px 8px 3px rgb(0 0 0 / 18%);
+}
+.aboutBoxRow-1 {
+    margin-top: 9rem;
+}
+.abtCR-content {
+    padding: 0 52px;
+}
+.abtContentR {
+    margin-top: 5rem;
+}
+.serBox {
+    padding: 63px 25px;
+    margin: 10px;
+    box-shadow: 2px 0px 8px 3px rgb(0 0 0 / 18%);
+    border-radius: 5px;
+}
+.serBox-i {
+    font-size: 45px;
+    padding: 15px 0;
+}
+section.serviceSec.sectionPad {
+    background: #F4F4F4;
+}
